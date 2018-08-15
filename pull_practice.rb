@@ -11,7 +11,7 @@ def duck_noise
   puts "quack"
 end
 
-Task 2: Same as task one, but switch roles
+# Task 2: Same as task one, but switch roles
 def truck_noise
   puts "honk"
 end
@@ -34,5 +34,5 @@ end
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
 def clock_noise
-  puts "tock"
+  puts "tick tock"
 end
