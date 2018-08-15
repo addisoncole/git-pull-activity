@@ -33,6 +33,6 @@ end
 # Both partners should modify the same line in different ways.
 # Git doesn't know what to do in this case, so you'll have to
 # merge the two versions by hand.
-# def clock_noise
-#   puts ""
-# end
+def clock_noise
+  puts "tick"
+end
