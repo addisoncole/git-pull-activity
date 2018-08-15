@@ -11,7 +11,7 @@ def duck_noise
   puts "quack"
 end
 
-Task 2: Same as task one, but switch roles
+# Task 2: Same as task one, but switch roles
 def truck_noise
   puts "honk"
 end
